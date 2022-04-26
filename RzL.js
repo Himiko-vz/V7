@@ -537,7 +537,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
             case 'sc': {
-                m.reply('Script : https://github.com/RzLModz\n\n Dont Forget Give Star\n\nDonate : 6288274342094 (Dana/gopay)\nSaweria : https://saweria.co/XModz\nPaypal : https://www.paypal.me/Cakhaho\n\n Dont Forget Donate')
+                m.reply('Script : https://github.com/kevinafsarmanik\n\n Dont Forget Give Star\n\nDonate : 6288274342094 (Dana/gopay)\nSaweria : https://saweria.co/XModz\nPaypal : https://www.paypal.me/Cakhaho\n\n Dont Forget Donate')
             }
             break
             case 'chat': {
@@ -1139,12 +1139,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/RzLModz'
+                                    url: 'https://github.com/kevinafsarmanik'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-7756-2022'
+                                    phoneNumber: '+62 821-3215-6123'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1178,12 +1178,12 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/RzLModz'
+                                    url: 'https://github.com/KevinAfsarmanik'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-7756-2022'
+                                    phoneNumber: '+62 821-3215-6123'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2836,12 +2836,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/RzLModz'
+                                    url: 'https://github.com/kevinafsarmanik'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-7756-2022'
+                                    phoneNumber: '+62 821-3215-6123'
                                 }
                             }, {
                                 quickReplyButton: {
